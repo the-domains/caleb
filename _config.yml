@@ -1,0 +1,28 @@
+name: Caleb
+favicon: null
+layout_spectrum: 0.45442388439550996
+typography_spectrum: 0.41064614010974765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04591393726877868
+  lightness: 0.9369339786935598
+  saturation: 0.6832179306074977
+  rhythmicContrast: 0.5751669642049819
+purpose: []
